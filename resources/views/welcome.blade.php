@@ -1,6 +1,6 @@
 <x-welcome_layout>
     <h1 class="text-white font-semibold">SkillSwap</h1>
-    <p class="text-white max-w-[500px] mt-[15px] text-[18px]">
+    <p class="text-white max-w-[400px] mt-[15px] text-[18px]">
         SkillSwap is a platform for people around the
         world to use their skills to exchange for other professionals' skills. By giving tutorials
         and teaching your skills, you will earn credits that can then be used to buy and learn other
